@@ -1,6 +1,6 @@
 name = "ada lovelace"
 print(name.title())
-print(name.upper())
+print(name_aaa.upper())
 print(name.lower())
 
 first_name =  "ada"
